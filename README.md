@@ -12,7 +12,7 @@ I'm an Undergraduate Student at Chandigarh groups of college, Landran Mohali.
 
 ## 📊 GitHub Stats
 
-![rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagrasrivastava&show_icons=true&theme=radical)
+![rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupesh&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrasrivastava&layout=compact&theme=radical)
 
