@@ -24,7 +24,7 @@ I'm an Undergraduate Student at Chandigarh groups of college, Landran Mohali.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-...
+
 
 ## 🔗 Connect with me
 
